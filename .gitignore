@@ -1,0 +1,13 @@
+# Backup files from local edits
+*.bak
+*.orig
+
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Node (just in case)
+node_modules/
